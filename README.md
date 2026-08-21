@@ -1,64 +1,203 @@
 <h1 align="center">Hi 👋, I'm Namir</h1>
-<h3 align="center">A passionate Software Engineer & Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=60&lines=Full+Stack+Developer;Software+Engineer+in+Progress;Building+Scalable+Web+Applications;Learning+System+Design+%26+Cloud+Architecture" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Namir444">
+    <img src="https://img.shields.io/badge/GitHub-Namir444-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER-USERNAME">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://YOUR-PORTFOLIO-URL.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **building scalable web applications and exploring new technologies.**
-- 🌱 I’m currently learning **Advanced System Design and Machine Learning.**
-- 👯 I’m looking to collaborate on **Open Source Projects.**
-- 💬 Ask me about **React, Node.js, Python, and Cloud Architecture.**
-- 📫 How to reach me: **[Add your email/LinkedIn here]**
-- ⚡ Fun fact: **I love transforming complex problems into simple, elegant code.**
+I'm a **Full Stack Developer Intern** focused on building practical, scalable, and user-focused web applications.
+
+* 💻 Working with **Java, Python, JavaScript, React, SQL & MongoDB**
+* 🌱 Currently strengthening my knowledge of **Data Structures & Algorithms, OOP, System Design and Cloud Architecture**
+* 🔧 Interested in building **full-stack applications from frontend to backend**
+* 🧠 Focused on writing clean code, understanding fundamentals, and improving problem-solving skills
+* 🚀 Exploring scalable architectures, APIs, databases, and modern development workflows
+* 🤝 Open to collaborating on **full-stack projects, developer tools, open-source projects, and innovative products**
+* 🎯 Actively looking for opportunities to grow as a **Software Engineer / Full Stack Developer**
+
+> **I don't just want to write code — I want to understand why it works, how it scales, and how to make it better.**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
+
+### 💻 Languages
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <!-- Replace the icons below with the ones you actually use (https://skillicons.dev) -->
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,django,mongodb,postgres,mysql,docker,kubernetes,aws,gcp,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" alt="Programming Languages" />
+</p>
+
+### 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite" alt="Frontend Technologies" />
+</p>
+
+### ⚙️ Backend & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,mongodb,mysql" alt="Backend and Database Technologies" />
+</p>
+
+### 🔧 Tools & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" alt="Development Tools" />
+</p>
+
+### ☁️ Currently Exploring
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" alt="Cloud and DevOps Technologies" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Namir444&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Namir's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namir444&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Namir's Top Languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Namir444&theme=tokyonight&hide_border=true" alt="Namir's GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Namir444&theme=dracula&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Full Stack Applications
+
+Building complete web applications with modern frontend and backend technologies.
+
+</td>
+<td width="50%">
+
+### 🧩 Problem Solving
+
+Strengthening DSA and core programming fundamentals for real-world engineering and technical interviews.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ Cloud & Scalability
+
+Learning how applications are deployed, distributed, monitored, and scaled in production environments.
+
+</td>
+<td width="50%">
+
+### 🏗️ System Design
+
+Exploring APIs, databases, caching, distributed systems, scalability, and architectural trade-offs.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 Featured Projects
+
+> Replace the projects below with your strongest repositories. Prioritize projects that demonstrate real engineering decisions rather than tutorial-only projects.
+
+<p align="center">
+  <a href="https://github.com/Namir444">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namir444&repo=YOUR-BEST-PROJECT&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
+  </a>
+  <a href="https://github.com/Namir444">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namir444&repo=YOUR-SECOND-PROJECT&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+## 🧠 Engineering Interests
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Namir444&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Namir's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Namir444&theme=radical&hide_border=true" alt="Namir's GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namir444&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%"/>
-</p>
+```text
+Frontend Engineering
+        ↓
+React • JavaScript • Responsive UI
+        ↓
+Backend Engineering
+        ↓
+Java • Python • REST APIs
+        ↓
+Data Layer
+        ↓
+SQL • MongoDB • Database Design
+        ↓
+Engineering Fundamentals
+        ↓
+OOP • DSA • System Design
+        ↓
+Cloud & DevOps
+        ↓
+Docker • AWS • CI/CD • Scalable Architecture
+```
 
 ---
 
-### 🏆 Trophies
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Namir444&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Namir's Trophies" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER-USERNAME">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://YOUR-PORTFOLIO-URL.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Namir444">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-### 🤝 Connect with Me
+<p align="center">
+  <i>💡 Building. Learning. Shipping. Repeating.</i>
+</p>
 
 <p align="center">
-  <!-- Update these links with your actual profile URLs -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Namir444&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
