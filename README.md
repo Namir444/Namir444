@@ -168,8 +168,6 @@ A **Python-based job alert automation system** that collects and organizes job l
 
 A **Java-based machine learning application** that classifies emails as **Spam or Legitimate** using a custom **Naive Bayes classifier**.
 
-The system processes the sender, subject, and message body, applies text preprocessing, calculates classification probabilities, and provides a classification result with reasoning.
-
 **Highlights:**
 
 * 🤖 Custom Naive Bayes spam classifier
@@ -184,21 +182,27 @@ The system processes the sender, subject, and message body, applies text preproc
 
 🔗 **[View Email Spam Filter →](https://github.com/Namir444/EmailSpamFilter)**
 
+---
 
-**What it demonstrates**
+### ✨ Accent Glow Portfolio — Modern Frontend Project
 
-* 🐍 Python-based development
-* 🔄 Automated job-listing aggregation
-* 🔌 API-driven data collection
-* 🧩 Modular project structure
-* 🛡️ Security-conscious handling of credentials
-* ⚙️ Automation designed around practical job-search workflows
+A visually focused **developer portfolio website** built with a modern frontend stack, featuring a polished accent-glow visual style and responsive user interface.
 
-<p align="center">
-  <a href="https://github.com/Namir444/dek_bot">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View DEK Bot on GitHub" />
-  </a>
-</p>
+**Highlights:**
+
+* 🎨 Modern and visually polished portfolio interface
+* ✨ Accent-glow inspired UI design
+* 📱 Responsive frontend experience
+* ⚡ Vite-powered development workflow
+* 🧩 Component-based frontend architecture
+* 📝 TypeScript-based development
+* 🧹 ESLint & Prettier for maintainable code
+* 🚀 Bun-powered development workflow
+
+**Tech:** `TypeScript` `Vite` `Bun` `Frontend Development` `Responsive UI` `ESLint` `Prettier`
+
+🔗 **[View Accent Glow Portfolio →](https://github.com/Namir444/accent-glow-port)**
+
 
 
 ## 🧠 Engineering Interests
