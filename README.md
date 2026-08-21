@@ -73,19 +73,6 @@ I'm a **Full Stack Developer Intern** focused on building practical, scalable, a
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Namir444&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Namir's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namir444&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Namir's Top Languages" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Namir444&theme=tokyonight&hide_border=true" alt="Namir's GitHub Streak" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
