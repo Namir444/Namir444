@@ -134,20 +134,33 @@ Exploring APIs, databases, caching, distributed systems, scalability, and archit
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Project
 
-> Replace the projects below with your strongest repositories. Prioritize projects that demonstrate real engineering decisions rather than tutorial-only projects.
+### 🤖 DEK Bot — Job Alert Aggregator
+
+A Python-based automation project designed to aggregate job listings from multiple sources and streamline the job-search workflow.
 
 <p align="center">
-  <a href="https://github.com/Namir444">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namir444&repo=YOUR-BEST-PROJECT&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
-  </a>
-  <a href="https://github.com/Namir444">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namir444&repo=YOUR-SECOND-PROJECT&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
+  <a href="https://github.com/Namir444/dek_bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namir444&repo=dek_bot&theme=tokyonight&hide_border=true" alt="DEK Bot Repository" />
   </a>
 </p>
 
----
+**What it demonstrates**
+
+* 🐍 Python-based development
+* 🔄 Automated job-listing aggregation
+* 🔌 API-driven data collection
+* 🧩 Modular project structure
+* 🛡️ Security-conscious handling of credentials
+* ⚙️ Automation designed around practical job-search workflows
+
+<p align="center">
+  <a href="https://github.com/Namir444/dek_bot">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View DEK Bot on GitHub" />
+  </a>
+</p>
+
 
 ## 🧠 Engineering Interests
 
