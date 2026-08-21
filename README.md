@@ -134,17 +134,56 @@ Exploring APIs, databases, caching, distributed systems, scalability, and archit
 
 ---
 
-## 🚀 Featured Project
-
-### 🤖 DEK Bot — Job Alert Aggregator
-
-A Python-based automation project designed to aggregate job listings from multiple sources and streamline the job-search workflow.
+## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/Namir444/dek_bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namir444&repo=dek_bot&theme=tokyonight&hide_border=true" alt="DEK Bot Repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namir444&repo=dek_bot&theme=tokyonight&hide_border=true" alt="DEK Bot" />
+  </a>
+  <a href="https://github.com/Namir444/EmailSpamFilter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namir444&repo=EmailSpamFilter&theme=tokyonight&hide_border=true" alt="Email Spam Filter" />
   </a>
 </p>
+
+### 🤖 DEK Bot — Automated Job Alert Aggregator
+
+A **Python-based job alert automation system** that collects and organizes job listings from multiple sources into a unified workflow.
+
+**Highlights:**
+
+* 🔎 Multi-source job aggregation
+* 🔌 API-driven data collection
+* 🇮🇳 India-focused job discovery
+* ⚙️ Automated job-search workflow
+* 🧩 Modular Python architecture
+* 🛡️ Security-conscious credential handling
+
+**Tech:** `Python` `REST APIs` `Automation` `Git` `GitHub`
+
+🔗 **[View DEK Bot →](https://github.com/Namir444/dek_bot)**
+
+---
+
+### 📧 Email Spam Filter — Java Machine Learning Project
+
+A **Java-based machine learning application** that classifies emails as **Spam or Legitimate** using a custom **Naive Bayes classifier**.
+
+The system processes the sender, subject, and message body, applies text preprocessing, calculates classification probabilities, and provides a classification result with reasoning.
+
+**Highlights:**
+
+* 🤖 Custom Naive Bayes spam classifier
+* 🧹 Text preprocessing and stop-word removal
+* 🧮 Laplace smoothing and log-probability calculations
+* 📊 Probability-based classification
+* 🖥️ Interactive Java GUI
+* 🔍 Classification reasoning and confidence scores
+* 🧩 Object-oriented design
+
+**Tech:** `Java` `Machine Learning` `Naive Bayes` `NLP` `OOP` `GUI`
+
+🔗 **[View Email Spam Filter →](https://github.com/Namir444/EmailSpamFilter)**
+
 
 **What it demonstrates**
 
